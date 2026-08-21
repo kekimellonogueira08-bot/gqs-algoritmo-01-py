@@ -74,10 +74,10 @@ Depois, a string é invertida utilizando `[::-1]`. Por fim, o programa compara a
 
 ## Autor
 
-**Kaio Moreira**
+**Kaio Moreira - 32510906**
 
-**Erick Mello**
+**Erick Mello - 326211590**
 
-**Icaro Ferreira**
+**Icaro Ferreira - 325111358**
 
 Projeto desenvolvido como atividade acadêmica da disciplina de **Garantia da Qualidade de Software**, sob orientação do professor **Daniel Paiva**.
